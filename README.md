@@ -82,7 +82,7 @@ Name | Id | description | price | car_id | user_id
 4.   Website include a form to edit/update a current record in the database table and correctly processes submitted forms.
 5.   Website does include a function to delete a current record.
 6.   Do create, delete, and update operations consider authorization status prior to execution
-7.   Page implements a third-party (Google Accounts) instead of implementing its own authentication & authorization spec.
+7.   implements a third-party (Google Accounts) instead of implementing its own authentication & authorization spec.
 8.   there is a 'Login' and 'Logout' button/link in the project. 
 9.   neatly formatted and compliant with the Python PEP 8 style guide.
 10.  comments present and effectively explain longer code procedures.
