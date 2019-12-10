@@ -92,12 +92,12 @@ Name | Id | description | price | car_id | user_id
 14.  Using HTML5 to add cool things like Sound You Heared when You start the app first time.
 15.  using Pure JS to add some function and make the app more smart.
 
-# ScreenShoots
+# Screenshots
 ![screenshot1](app1.JPG "screenshot1")
 ![screenshot2](app2.JPG "screenshot2")
 ![screenshot3](app3.JPG "screenshot3")
 
    
-## Author:
+## Developed and maintained By:
    ### Mahmoud Hegazy   
    ![author photo](https://avatars2.githubusercontent.com/u/55125302?s=96&v=4 "Author")
