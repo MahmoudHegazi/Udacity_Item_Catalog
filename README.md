@@ -1,12 +1,3 @@
-# Udacity_Item_Catalog
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6uDRmde0WlbQP-o8P4qDjj3NsmCmqrOLu50Srr6YHjE1A68QT' alt='udacity logo' style="width:100%">
-
-## App Screenshots
-<img src='app1.JPG' alt='udacity logo' style="width:100%">
-<img src='app2.JPG' alt='udacity logo' style="width:100%">
-<img src='app3.JPG' alt='udacity logo' style="width:100%">
-
-
 ![udacity logo](https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg "Udacity")
 # Item Catalog Web app - Udacity
 ### Full Stack Web Development ND
