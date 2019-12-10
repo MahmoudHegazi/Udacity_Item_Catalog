@@ -1,5 +1,5 @@
 ![udacity logo](https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg "Udacity")
-# Item Catalog Web app - Udacity
+# Item Catalog Web app - Udacity (Top Cars)
 ### Full Stack Web Development ND
 [Udacity.com](https://www.udacity.com)
 
