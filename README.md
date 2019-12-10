@@ -60,7 +60,7 @@ id | name | email | picture
 
 
 # 2- Car 
-#### Primary Key : id, UNIQUE CONSTRAINT : user_id, foreign Key: Users
+### Primary Key : id, UNIQUE CONSTRAINT : user_id, foreign Key: Users
 #### containes A list of Cars in the same Company (like Audi), To add new List,  
 #### all post inherts will have same company Name 
 name | id  
@@ -69,7 +69,7 @@ name | id
 
 
 # 3- CarType 
-#### Primary Key : id  UNIQUE CONSTRAINT : user_id,car_id, foreign Key: Users, Car
+### Primary Key : id  UNIQUE CONSTRAINT : user_id,car_id, foreign Key: Users, Car
 #### containes Cars Posts and post info
 
 Name | Id | description | price | car_id | user_id
