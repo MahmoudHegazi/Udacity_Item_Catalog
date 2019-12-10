@@ -94,12 +94,12 @@ Name | Id | description | price | car_id | user_id
 
 # Why You Have To use this app
 *  You can sell Your car or cars easy (New or Used) Cars.
-*  Your selling Posts Available untile u remove it.
+*  Your selling Posts Available until u remove it.
 *  You can use search for all selling Posts. 
-*  Your login and information handled By Google so You are super secured.
-*  You can add any Numbers of selling Posts.
+*  Your login and information are handled By Google so You are super secured.
+*  You can add any Number of selling Posts.
 *  You Can Deal direct with the buyer without broker.
-*  You Will enjoy with friendly user interface.
+*  You will enjoy dealing with an easy-to-use user interface.
 *  !Why You Still Reading Download it Now And sign up for Free.
 # Screenshots
 ![screenshot1](app1.JPG "screenshot1")
