@@ -61,7 +61,7 @@ id | name | email | picture
 
 
 # 2- Car 
-### Primary Key : id, UNIQUE CONSTRAINT : user_id, foreign Key: Users
+###  (Primary Key : id, UNIQUE CONSTRAINT : user_id, foreign Key: Users)
 
 #### containes A list of Cars in the same Company (like Audi), To add new List,  
 #### all post inherts will have same company Name 
