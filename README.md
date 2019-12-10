@@ -76,16 +76,16 @@ Name | Id | description | price | car_id | user_id
  
 # Features and Functions
 
-1.   The project implements a JSON endpoint that serves the same information.
-2.   Website reads category and item information from a database.
-3.   Website includes a form allowing users to add new items and correctly processes submitted forms.
-4.   Website include a form to edit/update a current record in the database table and correctly processes submitted forms.
-5.   Website does include a function to delete a current record.
-6.   Do create, delete, and update operations consider authorization status prior to execution
-7.   implements a third-party (Google Accounts) instead of implementing its own authentication & authorization spec.
-8.   there is a 'Login' and 'Logout' button/link in the project. 
-9.   neatly formatted and compliant with the Python PEP 8 style guide.
-10.  comments present and effectively explain longer code procedures.
+1.  The project implements a JSON endpoint that serves the same information.
+2.  Website reads category and item information from a database.
+3.  Website includes a form allowing users to add new items and correctly processes submitted forms.
+4.  Website include a form to edit/update a current record in the database table and correctly processes submitted forms.
+5.  Website does include a function to delete a current record.
+6.  Do create, delete, and update operations consider authorization status prior to execution
+7.  implements a third-party (Google Accounts) instead of implementing its own authentication & authorization spec.
+8.  there is a 'Login' and 'Logout' button/link in the project. 
+9.  neatly formatted and compliant with the Python PEP 8 style guide.
+10. comments present and effectively explain longer code procedures.
 11.  full responsive.
 12.  working searching Filed.
 13.  Using some Python function to add some AI to the web app.
