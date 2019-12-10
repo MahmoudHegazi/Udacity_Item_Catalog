@@ -15,6 +15,9 @@ REST Full app , can read and update and create and delete data from database, it
 * VirtualBox: 3 
 * Git : https://git-scm.com/downloads 
 
+# Notes Before Using this App 
+* You can search only By car name not the company names
+* this lastadded section show you Last added posts not lists
 
 ## How To set up VM and use this app on windows:
 
