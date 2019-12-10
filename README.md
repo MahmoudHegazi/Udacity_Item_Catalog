@@ -92,6 +92,15 @@ Name | Id | description | price | car_id | user_id
 14.  Using HTML5 to add cool things like Sound You Heared when You start the app first time.
 15.  using Pure JS to add some function and make the app more smart.
 
+# Why You Have To use this app
+*  You can sell Your car or cars easy (New or Used) Cars.
+*  Your selling Posts Available untile u remove it.
+*  You can use search for all selling Posts. 
+*  Your login and information handled By Google so You are super secured.
+*  You can add any Numbers of selling Posts.
+*  You Can Deal direct with the buyer without broker.
+*  You Will enjoy with friendly user interface.
+*  !Why You Still Reading Download it Now And sign up for Free.
 # Screenshots
 ![screenshot1](app1.JPG "screenshot1")
 ![screenshot2](app2.JPG "screenshot2")
