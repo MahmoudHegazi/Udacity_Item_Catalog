@@ -99,7 +99,7 @@ Name | Id | description | price | car_id | user_id
 15.  using Pure JS to add some function and make the app more smart.
 
 # Why You Have To use this app
-*  You can sell Your car or cars easy (New or Used) Cars.
+*  You can sell Your car or cars easy (<strong>New</strong> or Used) Cars.
 *  Your selling Posts Available until u remove it.
 *  You can use search for all selling Posts. 
 *  Your login and information are handled By Google so You are super secured.
