@@ -100,6 +100,7 @@ Name | Id | description | price | car_id | user_id
 
 # Why You Have To use this app
 *  You can sell Your car or cars easy (<strong>New</strong> or Used) Cars.
+*  The first application in the world through which you can buy an unused car from many suppliers and get offers on new cars.
 *  Your selling Posts Available until u remove it.
 *  You can use search for all selling Posts. 
 *  Your login and information are handled By Google so You are super secured.
