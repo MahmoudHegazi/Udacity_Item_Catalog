@@ -88,7 +88,9 @@ Name | Id | description | price | car_id | user_id
 10.  comments present and effectively explain longer code procedures.
 11.  full responsive.
 12.  working searching Filed.
-13.   Using some Python function to add some AI to the web app
+13.  Using some Python function to add some AI to the web app.
+14.  Using HTML5 to add cool things like Sound You Heared when You start the app first time.
+15.  using Pure JS to add some function and make the app more smart.
 
 # ScreenShoots
 ![screenshot1](app1.JPG "screenshot1")
