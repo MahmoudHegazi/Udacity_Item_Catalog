@@ -117,7 +117,7 @@ Name | Id | description | price | car_id | user_id
 4.  https://stackoverflow.com/
 5.  https://www.facebook.com/groups/pythoncodingprogrammingselfinstructionhub/ (python Group)
 
-# Editor to create this 
+# Editors to create this:
 *  Normal notePad.
 *  w3schools (Try it tool) editor with teseter and mark errors.
 *  IDLE Python Shell 3.7 (32-bit).
