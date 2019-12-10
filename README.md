@@ -110,12 +110,17 @@ Name | Id | description | price | car_id | user_id
 *  !Why You Still Reading Download it Now And sign up for Free.
 
 
-#Used some code from:
-1- www.Udacity.com
-2- www.w3schools.com
-3- https://realpython.com/
-4- https://stackoverflow.com/
-5- https://www.facebook.com/groups/pythoncodingprogrammingselfinstructionhub/ (python Group)
+# some code quoted from another source from: 
+1.  www.Udacity.com
+2.  www.w3schools.com
+3.  https://realpython.com/
+4.  https://stackoverflow.com/
+5.  https://www.facebook.com/groups/pythoncodingprogrammingselfinstructionhub/ (python Group)
+
+# Editor to create this 
+*  Normal notePad.
+*  w3schools (Try it tool) editor with teseter and mark errors.
+*  IDLE Python Shell 3.7 (32-bit).
 
 # Screenshots
 ![screenshot1](app1.JPG "screenshot1")
