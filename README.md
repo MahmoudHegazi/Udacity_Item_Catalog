@@ -50,8 +50,9 @@ The instructions on this page will help you do this.
 # Database Tables :
 
 # 1- Users  
-## Primary Key : id
-### containes userinfo which provided By Google+ API and Ouath2
+### (Primary Key : id)
+
+#### containes userinfo which provided By Google+ API and Ouath2
 
 id | name | email | picture
 --- | --- | --- | ---
@@ -61,6 +62,7 @@ id | name | email | picture
 
 # 2- Car 
 ### Primary Key : id, UNIQUE CONSTRAINT : user_id, foreign Key: Users
+
 #### containes A list of Cars in the same Company (like Audi), To add new List,  
 #### all post inherts will have same company Name 
 name | id  
@@ -68,8 +70,9 @@ name | id
 **Text** | **integer**
 
 
-# 3- CarType 
-### Primary Key : id  UNIQUE CONSTRAINT : user_id,car_id, foreign Key: Users, Car
+# 3- CarType
+### (Primary Key : id  UNIQUE CONSTRAINT : user_id,car_id, foreign Key: Users, Car)
+
 #### containes Cars Posts and post info
 
 Name | Id | description | price | car_id | user_id
