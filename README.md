@@ -1,5 +1,6 @@
 ![udacity logo](https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg "Udacity")
 # Item Catalog Web app - Udacity (Top Cars)
+## !!!!last update 12/11/2019  (8:45)
 ### Full Stack Web Development ND
 [Udacity.com](https://www.udacity.com)
 
@@ -14,6 +15,10 @@ REST Full app , can read and update and create and delete data from database, it
 * Vagrant: https://releases.hashicorp.com/vagrant/  
 * VirtualBox: 3 
 * Git : https://git-scm.com/downloads 
+
+# last updated Added 12/11/2019  (8:45)AM:
+* fixed the problem in the showPost() function to make it
+* don't allow non creator of the post or item in the menu to change the post
 
 # Notes Before Using this App 
 * You can search only By car name not the company name.
