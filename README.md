@@ -1,6 +1,5 @@
 ![udacity logo](https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg "Udacity")
 # Item Catalog Web app - Udacity (Top Cars)
-## !!!!last update 12/11/2019  (8:45)
 ### Full Stack Web Development ND
 [Udacity.com](https://www.udacity.com)
 
@@ -112,7 +111,7 @@ Name | Id | description | price | car_id | user_id
 *  You can add any Number of selling Posts.
 *  You Can Deal direct with the buyer without broker.
 *  You will enjoy dealing with an easy-to-use user interface.
-*  !Why You Still Reading Download it Now And sign up for Free.
+
 
 
 # some code quoted from another source from: 
