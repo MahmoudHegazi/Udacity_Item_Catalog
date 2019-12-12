@@ -15,7 +15,7 @@ REST Full app , can read and update and create and delete data from database, it
 * VirtualBox: 3 
 * Git : https://git-scm.com/downloads 
 
-# last updated Added 12/11/2019  (8:45)AM:
+# last update:
 * fixed the problem in the showPost() function to make it
 * don't allow non creator of the post or item in the menu to change the post
 
