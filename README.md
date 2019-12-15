@@ -11,7 +11,7 @@ REST Full app , can read and update and create and delete data from database, it
 
 # Udacity.com review
 ![screenshot1](Udacity review.JPG "screenshot1")
-
+<img src="Udacity review.JPG">
 
 # Prerequisites
 * Python: 3.8 https://www.python.org/downloads/release/python-380/  
