@@ -114,7 +114,7 @@ Name | Id | description | price | car_id | user_id
 
 
 
-# some code quoted from another source from: 
+# Sources: 
 1.  www.Udacity.com
 2.  www.w3schools.com
 3.  https://realpython.com/
