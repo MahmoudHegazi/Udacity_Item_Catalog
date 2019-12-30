@@ -137,4 +137,4 @@ Name | Id | description | price | car_id | user_id
    
 ## Developed and maintained By:
    ### Mahmoud Hegazy   
-   ![author photo](https://avatars2.githubusercontent.com/u/55125302?s=96&v=4 "Author")
+
