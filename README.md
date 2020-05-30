@@ -1,4 +1,4 @@
-# Item Catalog Web app - Udacity (Top Cars)
+# Item Catalog Web app - (Top Cars)
 ### Full Stack Web Development ND
 
 
